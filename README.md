@@ -2,6 +2,8 @@
 
 It is slightly simplified implementation of Kim's [Convolutional Neural Networks for Sentence Classification](http://arxiv.org/abs/1408.5882) paper in Tensorflow.
 
+For Highway Layer, refer to https://stackoverflow.com/questions/42437115/tensorflow-replacement-for-tf-nn-rnn-cell-linearinput-size-0-scope for linear method.
+
 ## Requirements
 
 - Python 3
